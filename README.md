@@ -9,4 +9,8 @@
     <td>Rodrigo Andrade</td>
     <td>Maceio</td>
   </tr>
+ <tr>
+    <td>Pedro Victor</td>
+    <td>Salgueiro</td>
+  </tr>
 </table>
